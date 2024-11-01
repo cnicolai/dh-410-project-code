@@ -170,4 +170,4 @@ if __name__ == "__main__":
     export_to_gephi(G)
 
     # Visualize the network
-    visualize_network(G)
+    # visualize_network(G)
