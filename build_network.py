@@ -50,7 +50,7 @@ def clean_text(xml_text, filter_stopwords=True):
     return str(text_with_persons)
 
 
-def get_text_windows(text, window_size=40):
+def get_text_windows(text, window_size):
     words = text.split()
 
     if window_size <= 0:
@@ -102,7 +102,7 @@ def visualize_network(G, title="Character Co-occurrence Network"):
     plt.show()
 
 
-def number_of_windows(cleaned_text, window_size=200):
+def number_of_windows(cleaned_text, window_size):
     words = cleaned_text.split()
     if window_size <= 0:
         raise ValueError("Window size must be positive")
