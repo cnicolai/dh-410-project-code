@@ -125,6 +125,12 @@ def parse_args():
         default="/Users/christoph/Library/Mobile Documents/com~apple~CloudDocs/Action/Aubrey Maturin/aubrey-maturin.xml",
         help="Path to the XML corpus file",
     )
+    parser.add_argument(
+        "--window-size",
+        type=int,
+        default=20,
+        help="Size of the sliding window for character co-occurrence",
+    )
     return parser.parse_args()
 
 
@@ -138,7 +144,7 @@ if __name__ == "__main__":
     cleaned_text = clean_text(xml_text, filter_stopwords=True)
 
     # Get windows of text
-    windows = get_text_windows(cleaned_text, window_size=200)
+    windows = get_text_windows(cleaned_text, window_size=args.window_size)
 
     # Create an empty graph
     G = nx.Graph()
@@ -147,7 +153,7 @@ if __name__ == "__main__":
     for window in tqdm(
         windows,
         desc="Processing windows",
-        total=number_of_windows(cleaned_text, window_size=10),
+        total=number_of_windows(cleaned_text, window_size=args.window_size),
     ):
         persons_in_window = get_person_refs(window)
 
