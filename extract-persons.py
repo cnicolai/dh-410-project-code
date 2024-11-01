@@ -1,8 +1,9 @@
-import spacy
-import os
 import argparse
+import os
+
 from funcy import keep, mapcat, count_by
 import pandas as pd
+import spacy
 
 
 def get_corpus(path):
