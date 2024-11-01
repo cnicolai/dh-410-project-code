@@ -1,0 +1,1888 @@
+[
+  {
+    "name": "Jack",
+    "count": 9290,
+    "tei": "<persName ref=\"Jack Aubrey\">Jack</persName>"
+  },
+  {
+    "name": "Stephen",
+    "count": 6151,
+    "tei": "<persName ref=\"Stephen Maturin\">Stephen</persName>"
+  },
+  {
+    "name": "Aubrey",
+    "count": 1560,
+    "tei": "<persName ref=\"Jack Aubrey\">Aubrey</persName>"
+  },
+  {
+    "name": "Killick",
+    "count": 773,
+    "tei": "<persName ref=\"Preserved Killick\">Killick</persName>"
+  },
+  {
+    "name": "Diana",
+    "count": 737,
+    "tei": "<persName ref=\"Diana Villiers\">Diana</persName>"
+  },
+  {
+    "name": "Bonden",
+    "count": 674,
+    "tei": "<persName ref=\"Barret Bonden\">Bonden</persName>"
+  },
+  {
+    "name": "Martin",
+    "count": 653,
+    "tei": "<persName ref=\"Nathaniel Martin\">Martin</persName>"
+  },
+  {
+    "name": "Joseph",
+    "count": 457,
+    "tei": "<persName ref=\"Joseph Blaine\">Joseph</persName>"
+  },
+  {
+    "name": "Jack Aubrey",
+    "count": 424,
+    "tei": "<persName ref=\"Jack Aubrey\">Jack Aubrey</persName>"
+  },
+  {
+    "name": "Mowett",
+    "count": 400,
+    "tei": "<persName ref=\"William Mowett\">Mowett</persName>"
+  },
+  {
+    "name": "Dr Maturin",
+    "count": 357,
+    "tei": "<persName ref=\"Stephen Maturin\">Dr Maturin</persName>"
+  },
+  {
+    "name": "Jacob",
+    "count": 256,
+    "tei": "<persName ref=\"Amos Jacob\">Jacob</persName>"
+  },
+  {
+    "name": "Tom",
+    "count": 215,
+    "tei": "<persName ref=\"Tom Pullings\">Tom</persName>"
+  },
+  {
+    "name": "Graham",
+    "count": 208,
+    "tei": "<persName ref=\"Ebenezer Graham\">Graham</persName>"
+  },
+  {
+    "name": "Johnson",
+    "count": 182,
+    "tei": "<persName ref=\"Harry Johnson\">Johnson</persName>"
+  },
+  {
+    "name": "Nelson",
+    "count": 181,
+    "tei": "<persName ref=\"Horatio Nelson\">Horatio Nelson</persName>",
+    "historical": true
+  },
+  {
+    "name": "Herapath",
+    "count": 178,
+    "tei": "<persName ref=\"Michael Herapath\">Herapath</persName>"
+  },
+  {
+    "name": "Clonfert",
+    "count": 174,
+    "tei": "<persName ref=\"Lord Clonfert\">Clonfert</persName>"
+  },
+  {
+    "name": "Harding",
+    "count": 165,
+    "tei": "<persName ref=\"William Harding\">Harding</persName>"
+  },
+  {
+    "name": "Mrs Williams",
+    "count": 156,
+    "tei": "<persName ref=\"Mrs Williams\">Mrs Williams</persName>"
+  },
+  {
+    "name": "Oakes",
+    "count": 152,
+    "tei": "<persName ref=\"Clarissa Oakes\">Oakes</persName>"
+  },
+  {
+    "name": "Stephen Maturin",
+    "count": 147,
+    "tei": "<persName ref=\"Stephen Maturin\">Stephen Maturin</persName>"
+  },
+  {
+    "name": "Dundas",
+    "count": 139,
+    "tei": "<persName ref=\"Heneage Dundas\">Dundas</persName>"
+  },
+  {
+    "name": "James",
+    "count": 130,
+    "tei": "<persName ref=\"James Dillon\">James</persName>"
+  },
+  {
+    "name": "Mrs Wogan",
+    "count": 127,
+    "tei": "<persName ref=\"Louisa Wogan\">Mrs Wogan</persName>"
+  },
+  {
+    "name": "Pullings",
+    "count": 120,
+    "tei": "<persName ref=\"Tom Pullings\">Pullings</persName>"
+  },
+  {
+    "name": "Jagiello",
+    "count": 117,
+    "tei": "<persName ref=\"Jagiello\">Jagiello</persName>"
+  },
+  {
+    "name": "Seymour",
+    "count": 103,
+    "tei": "<persName ref=\"George Seymour\">Seymour</persName>"
+  },
+  {
+    "name": "Tom Pullings",
+    "count": 101,
+    "tei": "<persName ref=\"Tom Pullings\">Tom Pullings</persName>"
+  },
+  {
+    "name": "George",
+    "count": 101,
+    "tei": "<persName ref=\"George Aubrey\">George</persName>"
+  },
+  {
+    "name": "Richardson",
+    "count": 97,
+    "tei": "<persName ref=\"Richardson\">Richardson</persName>"
+  },
+  {
+    "name": "Babbington",
+    "count": 95,
+    "tei": "<persName ref=\"William Babbington\">Babbington</persName>"
+  },
+  {
+    "name": "Davidge",
+    "count": 92,
+    "tei": "<persName ref=\"Davidge\">Davidge</persName>"
+  },
+  {
+    "name": "Jack Aubrey's",
+    "count": 92,
+    "tei": "<persName ref=\"Jack Aubrey\">Jack Aubrey's</persName>"
+  },
+  {
+    "name": "Adams",
+    "count": 91,
+    "tei": "<persName ref=\"Mr Adams\">Adams</persName>"
+  },
+  {
+    "name": "Duhamel",
+    "count": 89,
+    "tei": "<persName ref=\"Duhamel\">Duhamel</persName>"
+  },
+  {
+    "name": "Clarissa",
+    "count": 89,
+    "tei": "<persName ref=\"Clarissa Oakes\">Clarissa</persName>"
+  },
+  {
+    "name": "Mrs Oakes",
+    "count": 85,
+    "tei": "<persName ref=\"Clarissa Oakes\">Mrs Oakes</persName>"
+  },
+  {
+    "name": "Dey",
+    "count": 85,
+    "tei": "<persName ref=\"Dey\">Dey</persName>"
+  },
+  {
+    "name": "Sophia",
+    "count": 85,
+    "tei": "<persName ref=\"Sophia Aubrey\">Sophia</persName>"
+  },
+  {
+    "name": "Parker",
+    "count": 85,
+    "tei": "<persName ref=\"Parker\">Parker</persName>"
+  },
+  {
+    "name": "Keith",
+    "count": 85,
+    "tei": "<persName ref=\"Lord Keith\">Keith</persName>"
+  },
+  {
+    "name": "Stanhope",
+    "count": 82,
+    "tei": "<persName ref=\"Stanhope\">Stanhope</persName>"
+  },
+  {
+    "name": "Sam",
+    "count": 77,
+    "tei": "<persName ref=\"Sam Panda\">Sam</persName>"
+  },
+  {
+    "name": "Lawrence",
+    "count": 77,
+    "tei": "<persName ref=\"Lawrence\">Lawrence</persName>"
+  },
+  {
+    "name": "Ledward",
+    "count": 75,
+    "tei": "<persName ref=\"Ledward\">Ledward</persName>"
+  },
+  {
+    "name": "Melville",
+    "count": 75,
+    "tei": "<persName ref=\"Melville\">Melville</persName>"
+  },
+  {
+    "name": "Sarah",
+    "count": 73,
+    "tei": "<persName ref=\"Sarah Sweeting\">Sarah</persName>"
+  },
+  {
+    "name": "Blaine",
+    "count": 71,
+    "tei": "<persName ref=\"Joseph Blaine\">Blaine</persName>"
+  },
+  {
+    "name": "Mrs Broad",
+    "count": 71,
+    "tei": "<persName ref=\"Mrs Broad\">Mrs Broad</persName>"
+  },
+  {
+    "name": "Brigid",
+    "count": 70,
+    "tei": "<persName ref=\"Brigid Maturin\">Brigid</persName>"
+  },
+  {
+    "name": "Corbett",
+    "count": 68,
+    "tei": "<persName ref=\"Corbett\">Corbett</persName>"
+  },
+  {
+    "name": "Davis",
+    "count": 65,
+    "tei": "<persName ref=\"Awkward Davis\">Davis</persName>"
+  },
+  {
+    "name": "Keating",
+    "count": 63,
+    "tei": "<persName ref=\"Keating\">Keating</persName>"
+  },
+  {
+    "name": "Edwards",
+    "count": 63,
+    "tei": "<persName ref=\"Edwards\">Edwards</persName>"
+  },
+  {
+    "name": "Rowan",
+    "count": 62,
+    "tei": "<persName ref=\"Rowan\">Rowan</persName>"
+  },
+  {
+    "name": "Mustapha",
+    "count": 61,
+    "tei": "<persName ref=\"Mustapha\">Mustapha</persName>"
+  },
+  {
+    "name": "Whewell",
+    "count": 61,
+    "tei": "<persName ref=\"Whewell\">Whewell</persName>"
+  },
+  {
+    "name": "Calamy",
+    "count": 61,
+    "tei": "<persName ref=\"Calamy\">Calamy</persName>"
+  },
+  {
+    "name": "Simmons",
+    "count": 60,
+    "tei": "<persName ref=\"Simmons\">Simmons</persName>"
+  },
+  {
+    "name": "Joe",
+    "count": 59,
+    "tei": "<persName ref=\"Joe Plaice\">Joe</persName>"
+  },
+  {
+    "name": "Griffiths",
+    "count": 58,
+    "tei": "<persName ref=\"Griffiths\">Griffiths</persName>"
+  },
+  {
+    "name": "Harte",
+    "count": 56,
+    "tei": "<persName ref=\"Admiral Harte\">Harte</persName>"
+  },
+  {
+    "name": "Philip",
+    "count": 52,
+    "tei": "<persName ref=\"Philip Aubrey\">Philip</persName>"
+  },
+  {
+    "name": "James Dillon",
+    "count": 52,
+    "tei": "<persName ref=\"James Dillon\">James Dillon</persName>"
+  },
+  {
+    "name": "Williams",
+    "count": 51,
+    "tei": "<persName ref=\"Mrs Williams\">Williams</persName>"
+  },
+  {
+    "name": "Diana Villiers",
+    "count": 50,
+    "tei": "<persName ref=\"Diana Villiers\">Diana Villiers</persName>"
+  },
+  {
+    "name": "Dillon",
+    "count": 50,
+    "tei": "<persName ref=\"James Dillon\">Dillon</persName>"
+  },
+  {
+    "name": "Stephen\n",
+    "count": 49,
+    "tei": "<persName ref=\"Stephen Maturin\">Stephen</persName>"
+  },
+  {
+    "name": "Mrs Fielding",
+    "count": 48,
+    "tei": "<persName ref=\"Laura Fielding\">Mrs Fielding</persName>"
+  },
+  {
+    "name": "Jemmy Ducks",
+    "count": 48,
+    "tei": "<persName ref=\"Jemmy Ducks\">Jemmy Ducks</persName>"
+  },
+  {
+    "name": "Laura",
+    "count": 47,
+    "tei": "<persName ref=\"Laura Fielding\">Laura</persName>"
+  },
+  {
+    "name": "Wallis",
+    "count": 47,
+    "tei": "<persName ref=\"Wallis\">Wallis</persName>"
+  },
+  {
+    "name": "Miller",
+    "count": 46,
+    "tei": "<persName ref=\"Miller\">Miller</persName>"
+  },
+  {
+    "name": "Standish",
+    "count": 46,
+    "tei": "<persName ref=\"Standish\">Standish</persName>"
+  },
+  {
+    "name": "Grainger",
+    "count": 45,
+    "tei": "<persName ref=\"Grainger\">Grainger</persName>"
+  },
+  {
+    "name": "Hollom",
+    "count": 45,
+    "tei": "<persName ref=\"Hollom\">Hollom</persName>"
+  },
+  {
+    "name": "Stourton",
+    "count": 45,
+    "tei": "<persName ref=\"Stourton\">Stourton</persName>"
+  },
+  {
+    "name": "Hanson",
+    "count": 45,
+    "tei": "<persName ref=\"Hanson\">Hanson</persName>"
+  },
+  {
+    "name": "Mrs Villiers",
+    "count": 45,
+    "tei": "<persName ref=\"Diana Villiers\">Mrs Villiers</persName>"
+  },
+  {
+    "name": "Gill",
+    "count": 44,
+    "tei": "<persName ref=\"Gill\">Gill</persName>"
+  },
+  {
+    "name": "Warren",
+    "count": 44,
+    "tei": "<persName ref=\"Warren\">Warren</persName>"
+  },
+  {
+    "name": "Buonaparte",
+    "count": 43,
+    "tei": "<persName ref=\"Bonaparte\">Buonaparte</persName>"
+  },
+  {
+    "name": "Macdonald",
+    "count": 43,
+    "tei": "<persName ref=\"Macdonald\">Macdonald</persName>"
+  },
+  {
+    "name": "Mary",
+    "count": 43,
+    "tei": "<persName ref=\"Mary\">Mary</persName>"
+  },
+  {
+    "name": "Howard",
+    "count": 43,
+    "tei": "<persName ref=\"Howard\">Howard</persName>"
+  },
+  {
+    "name": "Higgins",
+    "count": 41,
+    "tei": "<persName ref=\"Higgins\">Higgins</persName>"
+  },
+  {
+    "name": "Wright",
+    "count": 41,
+    "tei": "<persName ref=\"Wright\">Wright</persName>"
+  },
+  {
+    "name": "Bonaparte",
+    "count": 41,
+    "tei": "<persName ref=\"Bonaparte\">Bonaparte</persName>"
+  },
+  {
+    "name": "Thomas",
+    "count": 40,
+    "tei": "<persName ref=\"Tom Pullings\">Thomas</persName>"
+  },
+  {
+    "name": "Jack\nAubrey",
+    "count": 40,
+    "tei": "<persName ref=\"Jack Aubrey\">Jack Aubrey</persName>"
+  },
+  {
+    "name": "Maturin",
+    "count": 39,
+    "tei": "<persName ref=\"Stephen Maturin\">Maturin</persName>"
+  },
+  {
+    "name": "Heneage Dundas",
+    "count": 37,
+    "tei": "<persName ref=\"Heneage Dundas\">Heneage Dundas</persName>"
+  },
+  {
+    "name": "Ali",
+    "count": 37,
+    "tei": "<persName ref=\"Ali\">Ali</persName>"
+  },
+  {
+    "name": "Lambert",
+    "count": 37,
+    "tei": "<persName ref=\"Lambert\">Lambert</persName>"
+  },
+  {
+    "name": "Ismail",
+    "count": 37,
+    "tei": "<persName ref=\"Ismail\">Ismail</persName>"
+  },
+  {
+    "name": "M'Alister",
+    "count": 37,
+    "tei": "<persName ref=\"M'Alister\">M'Alister</persName>"
+  },
+  {
+    "name": "Queenie",
+    "count": 37,
+    "tei": "<persName ref=\"Queenie\">Queenie</persName>"
+  },
+  {
+    "name": "Mrs Aubrey",
+    "count": 37,
+    "tei": "<persName ref=\"Sophia Aubrey\">Mrs Aubrey</persName>"
+  },
+  {
+    "name": "Welby",
+    "count": 36,
+    "tei": "<persName ref=\"Welby\">Welby</persName>"
+  },
+  {
+    "name": "Francis",
+    "count": 36,
+    "tei": "<persName ref=\"Francis\">Francis</persName>"
+  },
+  {
+    "name": "Pratt",
+    "count": 36,
+    "tei": "<persName ref=\"Pratt\">Pratt</persName>"
+  },
+  {
+    "name": "Louisa",
+    "count": 34,
+    "tei": "<persName ref=\"Louisa Wogan\">Louisa</persName>"
+  },
+  {
+    "name": "Kimber",
+    "count": 34,
+    "tei": "<persName ref=\"Kimber\">Kimber</persName>"
+  },
+  {
+    "name": "Grant",
+    "count": 33,
+    "tei": "<persName ref=\"Grant\">Grant</persName>"
+  },
+  {
+    "name": "Mr Adams",
+    "count": 32,
+    "tei": "<persName ref=\"Mr Adams\">Mr Adams</persName>"
+  },
+  {
+    "name": "Lady Keith",
+    "count": 31,
+    "tei": "<persName ref=\"Lady Keith\">Lady Keith</persName>"
+  },
+  {
+    "name": "van Buren",
+    "count": 31,
+    "tei": "<persName ref=\"van Buren\">van Buren</persName>"
+  },
+  {
+    "name": "Lucy",
+    "count": 31,
+    "tei": "<persName ref=\"Lucy\">Lucy</persName>"
+  },
+  {
+    "name": "Joe Plaice",
+    "count": 31,
+    "tei": "<persName ref=\"Joe Plaice\">Joe Plaice</persName>"
+  },
+  {
+    "name": "Harris",
+    "count": 30,
+    "tei": "<persName ref=\"Harris\">Harris</persName>"
+  },
+  {
+    "name": "Yorke",
+    "count": 30,
+    "tei": "<persName ref=\"Yorke\">Yorke</persName>"
+  },
+  {
+    "name": "Andros",
+    "count": 30,
+    "tei": "<persName ref=\"Andros\">Andros</persName>"
+  },
+  {
+    "name": "Ricketts",
+    "count": 30,
+    "tei": "<persName ref=\"Ricketts\">Ricketts</persName>"
+  },
+  {
+    "name": "Joseph Blaine",
+    "count": 30,
+    "tei": "<persName ref=\"Joseph Blaine\">Joseph Blaine</persName>"
+  },
+  {
+    "name": "Villiers",
+    "count": 29,
+    "tei": "<persName ref=\"Diana Villiers\">Villiers</persName>"
+  },
+  {
+    "name": "Preserved Killick",
+    "count": 29,
+    "tei": "<persName ref=\"Preserved Killick\">Preserved Killick</persName>"
+  },
+  {
+    "name": "Callow",
+    "count": 28,
+    "tei": "<persName ref=\"Callow\">Callow</persName>"
+  },
+  {
+    "name": "Fanshawe",
+    "count": 28,
+    "tei": "<persName ref=\"Fanshawe\">Fanshawe</persName>"
+  },
+  {
+    "name": "Laura Fielding",
+    "count": 28,
+    "tei": "<persName ref=\"Laura Fielding\">Laura Fielding</persName>"
+  },
+  {
+    "name": "Jason",
+    "count": 28,
+    "tei": "<persName ref=\"Jason\">Jason</persName>"
+  },
+  {
+    "name": "Rousseau",
+    "count": 28,
+    "tei": "<persName ref=\"Rousseau\">Rousseau</persName>"
+  },
+  {
+    "name": "Hollar",
+    "count": 27,
+    "tei": "<persName ref=\"Hollar\">Hollar</persName>"
+  },
+  {
+    "name": "Canning",
+    "count": 27,
+    "tei": "<persName ref=\"Canning\">Canning</persName>"
+  },
+  {
+    "name": "Banks",
+    "count": 27,
+    "tei": "<persName ref=\"Banks\">Banks</persName>"
+  },
+  {
+    "name": "Kutali",
+    "count": 27,
+    "tei": "<persName ref=\"Kutali\">Kutali</persName>"
+  },
+  {
+    "name": "Brown",
+    "count": 27,
+    "tei": "<persName ref=\"Brown\">Brown</persName>"
+  },
+  {
+    "name": "Charles",
+    "count": 26,
+    "tei": "<persName ref=\"Charles\">Charles</persName>"
+  },
+  {
+    "name": "Elliott",
+    "count": 26,
+    "tei": "<persName ref=\"Elliott\">Elliott</persName>"
+  },
+  {
+    "name": "Forshaw",
+    "count": 26,
+    "tei": "<persName ref=\"Forshaw\">Forshaw</persName>"
+  },
+  {
+    "name": "Paulton",
+    "count": 26,
+    "tei": "<persName ref=\"Paulton\">Paulton</persName>"
+  },
+  {
+    "name": "Mrs Williams's",
+    "count": 26,
+    "tei": "<persName ref=\"Mrs Williams\">Mrs Williams's</persName>"
+  },
+  {
+    "name": "Caroline",
+    "count": 26,
+    "tei": "<persName ref=\"Caroline\">Caroline</persName>"
+  },
+  {
+    "name": "Raffles",
+    "count": 26,
+    "tei": "<persName ref=\"Raffles\">Raffles</persName>"
+  },
+  {
+    "name": "Mr Allen",
+    "count": 25,
+    "tei": "<persName ref=\"Mr Allen\">Mr Allen</persName>"
+  },
+  {
+    "name": "Abdul",
+    "count": 25,
+    "tei": "<persName ref=\"Abdul\">Abdul</persName>"
+  },
+  {
+    "name": "Mr White",
+    "count": 25,
+    "tei": "<persName ref=\"Mr White\">Mr White</persName>"
+  },
+  {
+    "name": "Emily",
+    "count": 25,
+    "tei": "<persName ref=\"Emily Sweeting\">Emily</persName>"
+  },
+  {
+    "name": "Beck",
+    "count": 25,
+    "tei": "<persName ref=\"Beck\">Beck</persName>"
+  },
+  {
+    "name": "Slade",
+    "count": 24,
+    "tei": "<persName ref=\"Slade\">Slade</persName>"
+  },
+  {
+    "name": "Sherman",
+    "count": 24,
+    "tei": "<persName ref=\"Sherman\">Sherman</persName>"
+  },
+  {
+    "name": "Mrs Homer",
+    "count": 24,
+    "tei": "<persName ref=\"Mrs Homer\">Mrs Homer</persName>"
+  },
+  {
+    "name": "Mrs Wogan's",
+    "count": 24,
+    "tei": "<persName ref=\"Louisa Wogan\">Mrs Wogan's</persName>"
+  },
+  {
+    "name": "Atkins",
+    "count": 24,
+    "tei": "<persName ref=\"Atkins\">Atkins</persName>"
+  },
+  {
+    "name": "Palmer",
+    "count": 23,
+    "tei": "<persName ref=\"Palmer\">Palmer</persName>"
+  },
+  {
+    "name": "Lindsay",
+    "count": 23,
+    "tei": "<persName ref=\"Lindsay\">Lindsay</persName>"
+  },
+  {
+    "name": "Owen",
+    "count": 23,
+    "tei": "<persName ref=\"Owen\">Owen</persName>"
+  },
+  {
+    "name": "Henry",
+    "count": 23,
+    "tei": "<persName ref=\"Henry\">Henry</persName>"
+  },
+  {
+    "name": "Nore",
+    "count": 23,
+    "tei": "<persName ref=\"Nore\">Nore</persName>"
+  },
+  {
+    "name": "Hassan",
+    "count": 23,
+    "tei": "<persName ref=\"Hassan\">Hassan</persName>"
+  },
+  {
+    "name": "Mrs Maturin",
+    "count": 23,
+    "tei": "<persName ref=\"Diana Villiers\">Mrs Maturin</persName>"
+  },
+  {
+    "name": "Barret Bonden",
+    "count": 23,
+    "tei": "<persName ref=\"Barret Bonden\">Barret Bonden</persName>"
+  },
+  {
+    "name": "Fanny",
+    "count": 23,
+    "tei": "<persName ref=\"Fanny Harte\">Fanny</persName>"
+  },
+  {
+    "name": "Simon",
+    "count": 22,
+    "tei": "<persName ref=\"Simon\">Simon</persName>"
+  },
+  {
+    "name": "William Reade",
+    "count": 22,
+    "tei": "<persName ref=\"William Reade\">William Reade</persName>"
+  },
+  {
+    "name": "Homer",
+    "count": 22,
+    "tei": "<persName ref=\"Homer\">Homer</persName>"
+  },
+  {
+    "name": "Boyle",
+    "count": 22,
+    "tei": "<persName ref=\"Boyle\">Boyle</persName>"
+  },
+  {
+    "name": "Bulkeley",
+    "count": 22,
+    "tei": "<persName ref=\"Bulkeley\">Bulkeley</persName>"
+  },
+  {
+    "name": "Desaix",
+    "count": 22,
+    "tei": "<persName ref=\"Desaix\">Desaix</persName>"
+  },
+  {
+    "name": "Colnett",
+    "count": 22,
+    "tei": "<persName ref=\"Colnett\">Colnett</persName>"
+  },
+  {
+    "name": "Dryad",
+    "count": 22,
+    "tei": "<persName ref=\"Dryad\">Dryad</persName>"
+  },
+  {
+    "name": "Amos",
+    "count": 22,
+    "tei": "<persName ref=\"Amos\">Amos</persName>"
+  },
+  {
+    "name": "Wan Da",
+    "count": 22,
+    "tei": "<persName ref=\"Wan Da\">Wan Da</persName>"
+  },
+  {
+    "name": "Andrews",
+    "count": 22,
+    "tei": "<persName ref=\"Andrews\">Andrews</persName>"
+  },
+  {
+    "name": "Capricorn",
+    "count": 22,
+    "tei": "<persName ref=\"Capricorn\">Capricorn</persName>"
+  },
+  {
+    "name": "Superb",
+    "count": 21,
+    "tei": "<persName ref=\"Superb\">Superb</persName>"
+  },
+  {
+    "name": "Latham",
+    "count": 21,
+    "tei": "<persName ref=\"Latham\">Latham</persName>"
+  },
+  {
+    "name": "St Vincent",
+    "count": 21,
+    "tei": "<persName ref=\"St Vincent\">St Vincent</persName>"
+  },
+  {
+    "name": "Hogg",
+    "count": 21,
+    "tei": "<persName ref=\"Hogg\">Hogg</persName>"
+  },
+  {
+    "name": "Ellis",
+    "count": 21,
+    "tei": "<persName ref=\"Ellis\">Ellis</persName>"
+  },
+  {
+    "name": "Brenton",
+    "count": 21,
+    "tei": "<persName ref=\"Brenton\">Brenton</persName>"
+  },
+  {
+    "name": "Mrs Harte",
+    "count": 21,
+    "tei": "<persName ref=\"Molly Harte\">Mrs Harte</persName>"
+  },
+  {
+    "name": "Cousin Edward",
+    "count": 20,
+    "tei": "<persName ref=\"Cousin Edward\">Cousin Edward</persName>"
+  },
+  {
+    "name": "Lewis",
+    "count": 20,
+    "tei": "<persName ref=\"Lewis\">Lewis</persName>"
+  },
+  {
+    "name": "Zambra",
+    "count": 20,
+    "tei": "<persName ref=\"Zambra\">Zambra</persName>"
+  },
+  {
+    "name": "Grimmond",
+    "count": 20,
+    "tei": "<persName ref=\"Grimmond\">Grimmond</persName>"
+  },
+  {
+    "name": "Thomas Pullings",
+    "count": 20,
+    "tei": "<persName ref=\"Tom Pullings\">Thomas Pullings</persName>"
+  },
+  {
+    "name": "Barbary",
+    "count": 20,
+    "tei": "<persName ref=\"Barbary\">Barbary</persName>"
+  },
+  {
+    "name": "Lesueur",
+    "count": 20,
+    "tei": "<persName ref=\"Lesueur\">Lesueur</persName>"
+  },
+  {
+    "name": "Mould",
+    "count": 20,
+    "tei": "<persName ref=\"Mould\">Mould</persName>"
+  },
+  {
+    "name": "Louisa Wogan",
+    "count": 19,
+    "tei": "<persName ref=\"Louisa Wogan\">Louisa Wogan</persName>"
+  },
+  {
+    "name": "Dr\nMaturin",
+    "count": 19,
+    "tei": "<persName ref=\"Stephen Maturin\">Dr Maturin</persName>"
+  },
+  {
+    "name": "Mr Hyde",
+    "count": 19,
+    "tei": "<persName ref=\"Mr Hyde\">Mr Hyde</persName>"
+  },
+  {
+    "name": "Wilkins",
+    "count": 19,
+    "tei": "<persName ref=\"Wilkins\">Wilkins</persName>"
+  },
+  {
+    "name": "Bennett",
+    "count": 19,
+    "tei": "<persName ref=\"Bennett\">Bennett</persName>"
+  },
+  {
+    "name": "Cotton",
+    "count": 19,
+    "tei": "<persName ref=\"Cotton\">Cotton</persName>"
+  },
+  {
+    "name": "Abraham",
+    "count": 19,
+    "tei": "<persName ref=\"Abraham\">Abraham</persName>"
+  },
+  {
+    "name": "Dalgleish",
+    "count": 19,
+    "tei": "<persName ref=\"Dalgleish\">Dalgleish</persName>"
+  },
+  {
+    "name": "Ben",
+    "count": 19,
+    "tei": "<persName ref=\"Ben\">Ben</persName>"
+  },
+  {
+    "name": "Sydney Cove",
+    "count": 19,
+    "tei": "<persName ref=\"Sydney Cove\">Sydney Cove</persName>"
+  },
+  {
+    "name": "Dutourd",
+    "count": 19,
+    "tei": "<persName ref=\"Dutourd\">Dutourd</persName>"
+  },
+  {
+    "name": "Aurora",
+    "count": 18,
+    "tei": "<persName ref=\"Aurora\">Aurora</persName>"
+  },
+  {
+    "name": "Omar",
+    "count": 18,
+    "tei": "<persName ref=\"Omar\">Omar</persName>"
+  },
+  {
+    "name": "Sowerby",
+    "count": 18,
+    "tei": "<persName ref=\"Sowerby\">Sowerby</persName>"
+  },
+  {
+    "name": "Prince William",
+    "count": 18,
+    "tei": "<persName ref=\"Prince William\">Prince William</persName>"
+  },
+  {
+    "name": "Maragall",
+    "count": 18,
+    "tei": "<persName ref=\"Maragall\">Maragall</persName>"
+  },
+  {
+    "name": "Cast",
+    "count": 18,
+    "tei": "<persName ref=\"Cast\">Cast</persName>"
+  },
+  {
+    "name": "Edward",
+    "count": 18,
+    "tei": "<persName ref=\"Edward\">Edward</persName>"
+  },
+  {
+    "name": "Michael",
+    "count": 18,
+    "tei": "<persName ref=\"Michael\">Michael</persName>"
+  },
+  {
+    "name": "Collins",
+    "count": 18,
+    "tei": "<persName ref=\"Collins\">Collins</persName>"
+  },
+  {
+    "name": "Haddock",
+    "count": 18,
+    "tei": "<persName ref=\"Haddock\">Haddock</persName>"
+  },
+  {
+    "name": "Guineaman",
+    "count": 18,
+    "tei": "<persName ref=\"Guineaman\">Guineaman</persName>"
+  },
+  {
+    "name": "Defender",
+    "count": 18,
+    "tei": "<persName ref=\"Defender\">Defender</persName>"
+  },
+  {
+    "name": "Bertie",
+    "count": 18,
+    "tei": "<persName ref=\"Bertie\">Bertie</persName>"
+  },
+  {
+    "name": "Borrell",
+    "count": 17,
+    "tei": "<persName ref=\"Borrell\">Borrell</persName>"
+  },
+  {
+    "name": "Rogers",
+    "count": 17,
+    "tei": "<persName ref=\"Rogers\">Rogers</persName>"
+  },
+  {
+    "name": "Webber",
+    "count": 17,
+    "tei": "<persName ref=\"Webber\">Webber</persName>"
+  },
+  {
+    "name": "Duff",
+    "count": 17,
+    "tei": "<persName ref=\"Duff\">Duff</persName>"
+  },
+  {
+    "name": "Mr Lamb",
+    "count": 17,
+    "tei": "<persName ref=\"Mr Lamb\">Mr Lamb</persName>"
+  },
+  {
+    "name": "Bob",
+    "count": 17,
+    "tei": "<persName ref=\"Bob\">Bob</persName>"
+  },
+  {
+    "name": "Turnbull",
+    "count": 17,
+    "tei": "<persName ref=\"Turnbull\">Turnbull</persName>"
+  },
+  {
+    "name": "Bolton",
+    "count": 17,
+    "tei": "<persName ref=\"Bolton\">Bolton</persName>"
+  },
+  {
+    "name": "Kitabi",
+    "count": 17,
+    "tei": "<persName ref=\"Kitabi\">Kitabi</persName>"
+  },
+  {
+    "name": "Mapes",
+    "count": 17,
+    "tei": "<persName ref=\"Mapes\">Mapes</persName>"
+  },
+  {
+    "name": "Mozart",
+    "count": 17,
+    "tei": "<persName ref=\"Mozart\">Mozart</persName>"
+  },
+  {
+    "name": "Bedlam",
+    "count": 17,
+    "tei": "<persName ref=\"Bedlam\">Bedlam</persName>"
+  },
+  {
+    "name": "Barham",
+    "count": 16,
+    "tei": "<persName ref=\"Barham\">Barham</persName>"
+  },
+  {
+    "name": "Minnie",
+    "count": 16,
+    "tei": "<persName ref=\"Minnie\">Minnie</persName>"
+  },
+  {
+    "name": "Keats",
+    "count": 16,
+    "tei": "<persName ref=\"Keats\">Keats</persName>"
+  },
+  {
+    "name": "Shao Yen",
+    "count": 16,
+    "tei": "<persName ref=\"Shao Yen\">Shao Yen</persName>"
+  },
+  {
+    "name": "Francis Ives",
+    "count": 16,
+    "tei": "<persName ref=\"Francis Ives\">Francis Ives</persName>"
+  },
+  {
+    "name": "Azores",
+    "count": 16,
+    "tei": "<persName ref=\"Azores\">Azores</persName>"
+  },
+  {
+    "name": "Larkin",
+    "count": 16,
+    "tei": "<persName ref=\"Larkin\">Larkin</persName>"
+  },
+  {
+    "name": "Pompey",
+    "count": 16,
+    "tei": "<persName ref=\"Pompey\">Pompey</persName>"
+  },
+  {
+    "name": "Joseph Banks",
+    "count": 16,
+    "tei": "<persName ref=\"Joseph Banks\">Joseph Banks</persName>"
+  },
+  {
+    "name": "Briggs",
+    "count": 16,
+    "tei": "<persName ref=\"Briggs\">Briggs</persName>"
+  },
+  {
+    "name": "Mrs Macquarie",
+    "count": 16,
+    "tei": "<persName ref=\"Mrs Macquarie\">Mrs Macquarie</persName>"
+  },
+  {
+    "name": "Wells",
+    "count": 16,
+    "tei": "<persName ref=\"Wells\">Wells</persName>"
+  },
+  {
+    "name": "Fellows",
+    "count": 16,
+    "tei": "<persName ref=\"Fellows\">Fellows</persName>"
+  },
+  {
+    "name": "Richards",
+    "count": 16,
+    "tei": "<persName ref=\"Richards\">Richards</persName>"
+  },
+  {
+    "name": "Kent",
+    "count": 16,
+    "tei": "<persName ref=\"Kent\">Kent</persName>"
+  },
+  {
+    "name": "Funchal",
+    "count": 16,
+    "tei": "<persName ref=\"Funchal\">Funchal</persName>"
+  },
+  {
+    "name": "St James's",
+    "count": 16,
+    "tei": "<persName ref=\"St James's\">St James's</persName>"
+  },
+  {
+    "name": "Linois",
+    "count": 16,
+    "tei": "<persName ref=\"Linois\">Linois</persName>"
+  },
+  {
+    "name": "Smithers",
+    "count": 15,
+    "tei": "<persName ref=\"Smithers\">Smithers</persName>"
+  },
+  {
+    "name": "Lea",
+    "count": 15,
+    "tei": "<persName ref=\"Lea\">Lea</persName>"
+  },
+  {
+    "name": "Adam",
+    "count": 15,
+    "tei": "<persName ref=\"Adam\">Adam</persName>"
+  },
+  {
+    "name": "Florey",
+    "count": 15,
+    "tei": "<persName ref=\"Florey\">Florey</persName>"
+  },
+  {
+    "name": "Sail",
+    "count": 15,
+    "tei": "<persName ref=\"Sail\">Sail</persName>"
+  },
+  {
+    "name": "Mr Herapath",
+    "count": 15,
+    "tei": "<persName ref=\"Michael Herapath\">Mr Herapath</persName>"
+  },
+  {
+    "name": "Dee",
+    "count": 15,
+    "tei": "<persName ref=\"Dee\">Dee</persName>"
+  },
+  {
+    "name": "Manu",
+    "count": 15,
+    "tei": "<persName ref=\"Manu\">Manu</persName>"
+  },
+  {
+    "name": "Castro",
+    "count": 15,
+    "tei": "<persName ref=\"Castro\">Castro</persName>"
+  },
+  {
+    "name": "Windham",
+    "count": 15,
+    "tei": "<persName ref=\"Windham\">Windham</persName>"
+  },
+  {
+    "name": "Billy",
+    "count": 15,
+    "tei": "<persName ref=\"Billy\">Billy</persName>"
+  },
+  {
+    "name": "Dr Harrington",
+    "count": 15,
+    "tei": "<persName ref=\"Dr Harrington\">Dr Harrington</persName>"
+  },
+  {
+    "name": "O'Higgins",
+    "count": 15,
+    "tei": "<persName ref=\"O'Higgins\">O'Higgins</persName>"
+  },
+  {
+    "name": "Hampshire",
+    "count": 15,
+    "tei": "<persName ref=\"Hampshire\">Hampshire</persName>"
+  },
+  {
+    "name": "Berwick",
+    "count": 15,
+    "tei": "<persName ref=\"Berwick\">Berwick</persName>"
+  },
+  {
+    "name": "Mrs Morris",
+    "count": 15,
+    "tei": "<persName ref=\"Mrs Morris\">Mrs Morris</persName>"
+  },
+  {
+    "name": "Wilson",
+    "count": 15,
+    "tei": "<persName ref=\"Wilson\">Wilson</persName>"
+  },
+  {
+    "name": "Nancy",
+    "count": 15,
+    "tei": "<persName ref=\"Nancy\">Nancy</persName>"
+  },
+  {
+    "name": "Harrowby",
+    "count": 15,
+    "tei": "<persName ref=\"Harrowby\">Harrowby</persName>"
+  },
+  {
+    "name": "Bimbashi",
+    "count": 15,
+    "tei": "<persName ref=\"Bimbashi\">Bimbashi</persName>"
+  },
+  {
+    "name": "Michael Herapath",
+    "count": 15,
+    "tei": "<persName ref=\"Michael Herapath\">Michael Herapath</persName>"
+  },
+  {
+    "name": "Patterson",
+    "count": 15,
+    "tei": "<persName ref=\"Patterson\">Patterson</persName>"
+  },
+  {
+    "name": "Mitchell",
+    "count": 14,
+    "tei": "<persName ref=\"Mitchell\">Mitchell</persName>"
+  },
+  {
+    "name": "Abel",
+    "count": 14,
+    "tei": "<persName ref=\"Abel\">Abel</persName>"
+  },
+  {
+    "name": "Andrew Wray",
+    "count": 14,
+    "tei": "<persName ref=\"Andrew Wray\">Andrew Wray</persName>"
+  },
+  {
+    "name": "Burton",
+    "count": 14,
+    "tei": "<persName ref=\"Burton\">Burton</persName>"
+  },
+  {
+    "name": "Jackson",
+    "count": 14,
+    "tei": "<persName ref=\"Jackson\">Jackson</persName>"
+  },
+  {
+    "name": "Lalla",
+    "count": 14,
+    "tei": "<persName ref=\"Lalla\">Lalla</persName>"
+  },
+  {
+    "name": "Pellworm",
+    "count": 14,
+    "tei": "<persName ref=\"Pellworm\">Pellworm</persName>"
+  },
+  {
+    "name": "Daisy",
+    "count": 14,
+    "tei": "<persName ref=\"Daisy\">Daisy</persName>"
+  },
+  {
+    "name": "Beg",
+    "count": 14,
+    "tei": "<persName ref=\"Beg\">Beg</persName>"
+  },
+  {
+    "name": "Juan Fernandez",
+    "count": 14,
+    "tei": "<persName ref=\"Juan Fernandez\">Juan Fernandez</persName>"
+  },
+  {
+    "name": "Hamelin",
+    "count": 14,
+    "tei": "<persName ref=\"Hamelin\">Hamelin</persName>"
+  },
+  {
+    "name": "Bates",
+    "count": 14,
+    "tei": "<persName ref=\"Bates\">Bates</persName>"
+  },
+  {
+    "name": "Venus",
+    "count": 14,
+    "tei": "<persName ref=\"Venus\">Venus</persName>"
+  },
+  {
+    "name": "Raisonable",
+    "count": 14,
+    "tei": "<persName ref=\"Raisonable\">Raisonable</persName>"
+  },
+  {
+    "name": "Corelli",
+    "count": 14,
+    "tei": "<persName ref=\"Corelli\">Corelli</persName>"
+  },
+  {
+    "name": "Line",
+    "count": 14,
+    "tei": "<persName ref=\"Line\">Line</persName>"
+  },
+  {
+    "name": "Pitt",
+    "count": 14,
+    "tei": "<persName ref=\"Pitt\">Pitt</persName>"
+  },
+  {
+    "name": "Isobel",
+    "count": 14,
+    "tei": "<persName ref=\"Isobel\">Isobel</persName>"
+  },
+  {
+    "name": "Bushel",
+    "count": 14,
+    "tei": "<persName ref=\"Bushel\">Bushel</persName>"
+  },
+  {
+    "name": "Mrs Lamb",
+    "count": 13,
+    "tei": "<persName ref=\"Mrs Lamb\">Mrs Lamb</persName>"
+  },
+  {
+    "name": "Ponsich",
+    "count": 13,
+    "tei": "<persName ref=\"Ponsich\">Ponsich</persName>"
+  },
+  {
+    "name": "Ahoy",
+    "count": 13,
+    "tei": "<persName ref=\"Ahoy\">Ahoy</persName>"
+  },
+  {
+    "name": "Molly Harte",
+    "count": 13,
+    "tei": "<persName ref=\"Molly Harte\">Molly Harte</persName>"
+  },
+  {
+    "name": "Li Po",
+    "count": 13,
+    "tei": "<persName ref=\"Li Po\">Li Po</persName>"
+  },
+  {
+    "name": "M'Mullen",
+    "count": 13,
+    "tei": "<persName ref=\"M'Mullen\">M'Mullen</persName>"
+  },
+  {
+    "name": "Jump",
+    "count": 13,
+    "tei": "<persName ref=\"Jump\">Jump</persName>"
+  },
+  {
+    "name": "Bowes",
+    "count": 13,
+    "tei": "<persName ref=\"Bowes\">Bowes</persName>"
+  },
+  {
+    "name": "Ho",
+    "count": 13,
+    "tei": "<persName ref=\"Ho\">Ho</persName>"
+  },
+  {
+    "name": "Nathaniel Martin",
+    "count": 13,
+    "tei": "<persName ref=\"Nathaniel Martin\">Nathaniel Martin</persName>"
+  },
+  {
+    "name": "Sutton",
+    "count": 13,
+    "tei": "<persName ref=\"Sutton\">Sutton</persName>"
+  },
+  {
+    "name": "Fellowes",
+    "count": 13,
+    "tei": "<persName ref=\"Fellowes\">Fellowes</persName>"
+  },
+  {
+    "name": "Pomfret",
+    "count": 13,
+    "tei": "<persName ref=\"Pomfret\">Pomfret</persName>"
+  },
+  {
+    "name": "Cadiz",
+    "count": 13,
+    "tei": "<persName ref=\"Cadiz\">Cadiz</persName>"
+  },
+  {
+    "name": "Heneage",
+    "count": 13,
+    "tei": "<persName ref=\"Heneage Dundas\">Heneage</persName>"
+  },
+  {
+    "name": "Durazzo",
+    "count": 13,
+    "tei": "<persName ref=\"Durazzo\">Durazzo</persName>"
+  },
+  {
+    "name": "Hush",
+    "count": 13,
+    "tei": "<persName ref=\"Hush\">Hush</persName>"
+  },
+  {
+    "name": "Lorient",
+    "count": 13,
+    "tei": "<persName ref=\"Lorient\">Lorient</persName>"
+  },
+  {
+    "name": "Randall",
+    "count": 13,
+    "tei": "<persName ref=\"Randall\">Randall</persName>"
+  },
+  {
+    "name": "White",
+    "count": 13,
+    "tei": "<persName ref=\"White\">White</persName>"
+  },
+  {
+    "name": "Dr Maturin's",
+    "count": 13,
+    "tei": "<persName ref=\"Stephen Maturin\">Dr Maturin's</persName>"
+  },
+  {
+    "name": "Kevin",
+    "count": 13,
+    "tei": "<persName ref=\"Kevin\">Kevin</persName>"
+  },
+  {
+    "name": "Stephen\nMaturin",
+    "count": 13,
+    "tei": "<persName ref=\"Stephen Maturin\">Stephen Maturin</persName>"
+  },
+  {
+    "name": "Harper",
+    "count": 12,
+    "tei": "<persName ref=\"Harper\">Harper</persName>"
+  },
+  {
+    "name": "Stephen.",
+    "count": 12,
+    "tei": "<persName ref=\"Stephen Maturin\">Stephen.</persName>"
+  },
+  {
+    "name": "Ajax",
+    "count": 12,
+    "tei": "<persName ref=\"Ajax\">Ajax</persName>"
+  },
+  {
+    "name": "Mrs Goole",
+    "count": 12,
+    "tei": "<persName ref=\"Mrs Goole\">Mrs Goole</persName>"
+  },
+  {
+    "name": "Seth",
+    "count": 12,
+    "tei": "<persName ref=\"Seth\">Seth</persName>"
+  },
+  {
+    "name": "Reade",
+    "count": 12,
+    "tei": "<persName ref=\"William Reade\">Reade</persName>"
+  },
+  {
+    "name": "Hill",
+    "count": 12,
+    "tei": "<persName ref=\"Hill\">Hill</persName>"
+  },
+  {
+    "name": "Hartley",
+    "count": 12,
+    "tei": "<persName ref=\"Hartley\">Hartley</persName>"
+  },
+  {
+    "name": "Ferris",
+    "count": 12,
+    "tei": "<persName ref=\"Ferris\">Ferris</persName>"
+  },
+  {
+    "name": "Lee",
+    "count": 12,
+    "tei": "<persName ref=\"Lee\">Lee</persName>"
+  },
+  {
+    "name": "Pearce",
+    "count": 12,
+    "tei": "<persName ref=\"Pearce\">Pearce</persName>"
+  },
+  {
+    "name": "Nathan",
+    "count": 12,
+    "tei": "<persName ref=\"Nathan\">Nathan</persName>"
+  },
+  {
+    "name": "Russell",
+    "count": 12,
+    "tei": "<persName ref=\"Russell\">Russell</persName>"
+  },
+  {
+    "name": "William Babbington",
+    "count": 12,
+    "tei": "<persName ref=\"William Babbington\">William Babbington</persName>"
+  },
+  {
+    "name": "Trollope",
+    "count": 12,
+    "tei": "<persName ref=\"Trollope\">Trollope</persName>"
+  },
+  {
+    "name": "Diligence",
+    "count": 12,
+    "tei": "<persName ref=\"Diligence\">Diligence</persName>"
+  },
+  {
+    "name": "Bligh",
+    "count": 12,
+    "tei": "<persName ref=\"Bligh\">Bligh</persName>"
+  },
+  {
+    "name": "Poll Skeeping",
+    "count": 12,
+    "tei": "<persName ref=\"Poll Skeeping\">Poll Skeeping</persName>"
+  },
+  {
+    "name": "Acasta",
+    "count": 12,
+    "tei": "<persName ref=\"Acasta\">Acasta</persName>"
+  },
+  {
+    "name": "Wetherby",
+    "count": 12,
+    "tei": "<persName ref=\"Wetherby\">Wetherby</persName>"
+  },
+  {
+    "name": "carpenter",
+    "count": 12,
+    "tei": "<persName ref=\"carpenter\">carpenter</persName>"
+  },
+  {
+    "name": "Tom\nPullings",
+    "count": 12,
+    "tei": "<persName ref=\"Tom Pullings\">Tom Pullings</persName>"
+  },
+  {
+    "name": "Mr Whewell",
+    "count": 12,
+    "tei": "<persName ref=\"Mr Whewell\">Mr Whewell</persName>"
+  },
+  {
+    "name": "Broke",
+    "count": 12,
+    "tei": "<persName ref=\"Broke\">Broke</persName>"
+  },
+  {
+    "name": "Lady Clonfert",
+    "count": 12,
+    "tei": "<persName ref=\"Lady Clonfert\">Lady Clonfert</persName>"
+  },
+  {
+    "name": "Awkward Davies",
+    "count": 11,
+    "tei": "<persName ref=\"Awkward Davies\">Awkward Davies</persName>"
+  },
+  {
+    "name": "Hadley",
+    "count": 11,
+    "tei": "<persName ref=\"Hadley\">Hadley</persName>"
+  },
+  {
+    "name": "Craddock",
+    "count": 11,
+    "tei": "<persName ref=\"Craddock\">Craddock</persName>"
+  },
+  {
+    "name": "Vizier",
+    "count": 11,
+    "tei": "<persName ref=\"Vizier\">Vizier</persName>"
+  },
+  {
+    "name": "Pope",
+    "count": 11,
+    "tei": "<persName ref=\"Pope\">Pope</persName>"
+  },
+  {
+    "name": "Dobson",
+    "count": 11,
+    "tei": "<persName ref=\"Dobson\">Dobson</persName>"
+  },
+  {
+    "name": "Mrs Raffles",
+    "count": 11,
+    "tei": "<persName ref=\"Mrs Raffles\">Mrs Raffles</persName>"
+  },
+  {
+    "name": "Emma",
+    "count": 11,
+    "tei": "<persName ref=\"Emma\">Emma</persName>"
+  },
+  {
+    "name": "Boccherini",
+    "count": 11,
+    "tei": "<persName ref=\"Boccherini\">Boccherini</persName>"
+  },
+  {
+    "name": "JA",
+    "count": 11,
+    "tei": "<persName ref=\"Jack Aubrey\">JA</persName>"
+  },
+  {
+    "name": "Johnstone",
+    "count": 11,
+    "tei": "<persName ref=\"Johnstone\">Johnstone</persName>"
+  },
+  {
+    "name": "Marshalsea",
+    "count": 11,
+    "tei": "<persName ref=\"Marshalsea\">Marshalsea</persName>"
+  },
+  {
+    "name": "Jenkins",
+    "count": 11,
+    "tei": "<persName ref=\"Jenkins\">Jenkins</persName>"
+  },
+  {
+    "name": "Judas",
+    "count": 11,
+    "tei": "<persName ref=\"Judas\">Judas</persName>"
+  },
+  {
+    "name": "Macarthur",
+    "count": 11,
+    "tei": "<persName ref=\"Macarthur\">Macarthur</persName>"
+  },
+  {
+    "name": "Briseis",
+    "count": 11,
+    "tei": "<persName ref=\"Briseis\">Briseis</persName>"
+  },
+  {
+    "name": "Thatcher",
+    "count": 11,
+    "tei": "<persName ref=\"Thatcher\">Thatcher</persName>"
+  },
+  {
+    "name": "Pocock",
+    "count": 11,
+    "tei": "<persName ref=\"Pocock\">Pocock</persName>"
+  },
+  {
+    "name": "Ali Pasha",
+    "count": 11,
+    "tei": "<persName ref=\"Ali Pasha\">Ali Pasha</persName>"
+  },
+  {
+    "name": "Mona",
+    "count": 11,
+    "tei": "<persName ref=\"Mona\">Mona</persName>"
+  },
+  {
+    "name": "Humphreys",
+    "count": 11,
+    "tei": "<persName ref=\"Humphreys\">Humphreys</persName>"
+  },
+  {
+    "name": "Hyaena",
+    "count": 11,
+    "tei": "<persName ref=\"Hyaena\">Hyaena</persName>"
+  },
+  {
+    "name": "Goliath",
+    "count": 11,
+    "tei": "<persName ref=\"Goliath\">Goliath</persName>"
+  },
+  {
+    "name": "Gunner",
+    "count": 11,
+    "tei": "<persName ref=\"Gunner\">Gunner</persName>"
+  },
+  {
+    "name": "Dupuytren",
+    "count": 11,
+    "tei": "<persName ref=\"Dupuytren\">Dupuytren</persName>"
+  },
+  {
+    "name": "Jenny",
+    "count": 10,
+    "tei": "<persName ref=\"Jenny\">Jenny</persName>"
+  },
+  {
+    "name": "Captain Hamond",
+    "count": 10,
+    "tei": "<persName ref=\"Captain Hamond\">Captain Hamond</persName>"
+  },
+  {
+    "name": "Clara",
+    "count": 10,
+    "tei": "<persName ref=\"Clara\">Clara</persName>"
+  },
+  {
+    "name": "Noah",
+    "count": 10,
+    "tei": "<persName ref=\"Noah\">Noah</persName>"
+  },
+  {
+    "name": "Douglas",
+    "count": 10,
+    "tei": "<persName ref=\"Douglas\">Douglas</persName>"
+  },
+  {
+    "name": "Avila",
+    "count": 10,
+    "tei": "<persName ref=\"Avila\">Avila</persName>"
+  },
+  {
+    "name": "Sally",
+    "count": 10,
+    "tei": "<persName ref=\"Sally\">Sally</persName>"
+  },
+  {
+    "name": "Miss Smith",
+    "count": 10,
+    "tei": "<persName ref=\"Miss Smith\">Miss Smith</persName>"
+  },
+  {
+    "name": "Floris",
+    "count": 10,
+    "tei": "<persName ref=\"Floris\">Floris</persName>"
+  },
+  {
+    "name": "Mrs Barlow",
+    "count": 10,
+    "tei": "<persName ref=\"Mrs Barlow\">Mrs Barlow</persName>"
+  },
+  {
+    "name": "Wittgenstein",
+    "count": 10,
+    "tei": "<persName ref=\"Wittgenstein\">Wittgenstein</persName>"
+  },
+  {
+    "name": "Vaux",
+    "count": 10,
+    "tei": "<persName ref=\"Vaux\">Vaux</persName>"
+  },
+  {
+    "name": "Philip Broke",
+    "count": 10,
+    "tei": "<persName ref=\"Philip Broke\">Philip Broke</persName>"
+  },
+  {
+    "name": "Willis",
+    "count": 10,
+    "tei": "<persName ref=\"Willis\">Willis</persName>"
+  },
+  {
+    "name": "McLeod",
+    "count": 10,
+    "tei": "<persName ref=\"McLeod\">McLeod</persName>"
+  },
+  {
+    "name": "Mark",
+    "count": 10,
+    "tei": "<persName ref=\"Mark\">Mark</persName>"
+  },
+  {
+    "name": "John Daniel",
+    "count": 10,
+    "tei": "<persName ref=\"John Daniel\">John Daniel</persName>"
+  },
+  {
+    "name": "Shakespeare",
+    "count": 10,
+    "tei": "<persName ref=\"Shakespeare\">Shakespeare</persName>"
+  },
+  {
+    "name": "Leander",
+    "count": 10,
+    "tei": "<persName ref=\"Leander\">Leander</persName>"
+  },
+  {
+    "name": "Harry",
+    "count": 10,
+    "tei": "<persName ref=\"Harry\">Harry</persName>"
+  },
+  {
+    "name": "Hamilton",
+    "count": 10,
+    "tei": "<persName ref=\"Hamilton\">Hamilton</persName>"
+  },
+  {
+    "name": "Tina",
+    "count": 10,
+    "tei": "<persName ref=\"Tina\">Tina</persName>"
+  },
+  {
+    "name": "Maggie",
+    "count": 10,
+    "tei": "<persName ref=\"Maggie\">Maggie</persName>"
+  },
+  {
+    "name": "Nagel",
+    "count": 10,
+    "tei": "<persName ref=\"Nagel\">Nagel</persName>"
+  },
+  {
+    "name": "Omar Pasha",
+    "count": 10,
+    "tei": "<persName ref=\"Omar Pasha\">Omar Pasha</persName>"
+  },
+  {
+    "name": "Mrs Fielding's",
+    "count": 10,
+    "tei": "<persName ref=\"Laura Fielding\">Mrs Fielding's</persName>"
+  },
+  {
+    "name": "Bernard",
+    "count": 10,
+    "tei": "<persName ref=\"Bernard\">Bernard</persName>"
+  },
+  {
+    "name": "Needham",
+    "count": 10,
+    "tei": "<persName ref=\"Needham\">Needham</persName>"
+  },
+  {
+    "name": "Yann",
+    "count": 10,
+    "tei": "<persName ref=\"Yann\">Yann</persName>"
+  }
+]

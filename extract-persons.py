@@ -51,4 +51,7 @@ if __name__ == "__main__":
     # filter out persons that appear less than 10 times in the corpus
     df = df[df["count"] >= 10]
     print(df.to_string())
-    df.to_json("persons.json", orient="records")
+
+    # save to json if file does not exist
+    if not os.path.exists("persons.json"):
+        df.to_json("persons.json", orient="records")
