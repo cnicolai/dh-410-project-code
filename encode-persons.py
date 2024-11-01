@@ -136,13 +136,14 @@ if __name__ == "__main__":
 
             # Split into paragraphs and add them to the chapter. Unclear whether all paragraphs are separated by two newlines,
             # but this approximation should work for most cases and won't do any damage if it's not the case.
+            # TODO: double check paragraph splitting
             paragraphs = processed_text.split("\n\n")
             for para in paragraphs:
                 if para.strip():
                     p = create_paragraph_element(para.strip())
                     chapter_div.append(p)
 
-    # Write the complete XML file
+    # Write the completed XML file, formatting might be improved with other tools
     output_path = os.path.join(os.path.dirname(args.path), "aubrey-maturin.xml")
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(get_xml_document(tei))
