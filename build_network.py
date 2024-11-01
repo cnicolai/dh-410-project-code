@@ -1,3 +1,4 @@
+import argparse
 from bs4 import BeautifulSoup
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -10,9 +11,7 @@ import matplotlib.pyplot as plt
 from math import log
 
 
-def get_corpus(
-    path="/Users/christoph/Library/Mobile Documents/com~apple~CloudDocs/Action/Aubrey Maturin/Chapter/aubrey-maturin.xml",
-):
+def get_corpus(path):
     with open(path, "r") as file:
         file_contents = file.read()
 
@@ -117,9 +116,23 @@ def export_to_gephi(G, output_path="network.gexf"):
     nx.write_gexf(G, output_path)
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Process XML corpus and build character network."
+    )
+    parser.add_argument(
+        "--path",
+        default="/Users/christoph/Library/Mobile Documents/com~apple~CloudDocs/Action/Aubrey Maturin/aubrey-maturin.xml",
+        help="Path to the XML corpus file",
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
+    args = parse_args()
+
     # Get the XML text
-    xml_text = get_corpus()
+    xml_text = get_corpus(args.path)
 
     # Clean the text
     cleaned_text = clean_text(xml_text, filter_stopwords=True)
@@ -157,4 +170,4 @@ if __name__ == "__main__":
     export_to_gephi(G)
 
     # Visualize the network
-    # visualize_network(G)
+    visualize_network(G)
