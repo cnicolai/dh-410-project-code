@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Test Naval Story</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p> On a bright morning at Portsmouth, <persName ref="James Nelson">Captain
+                    Nelson</persName> gathered his officers on the quarterdeck. <persName
+                    ref="William Blake">Lieutenant Blake</persName> stood beside <persName
+                    ref="Thomas Harris">Dr. Harris</persName>, while <persName ref="Robert Smith"
+                    >Midshipman Smith</persName> nervously shuffled his feet. </p>
+            <p> "Gentlemen," announced <persName ref="James Nelson">Nelson</persName>, "we have
+                received intelligence from <persName ref="George Thompson">Admiral
+                    Thompson</persName> about French movements." The crew listened intently as
+                    <persName ref="Edward Davies">First Lieutenant Davies</persName> distributed the
+                orders. </p>
+            <p> Meanwhile, at the admiralty, <persName ref="Henry Russell">Lord Russell</persName>
+                consulted with <persName ref="Charles Stewart">Sir Stewart</persName> about the
+                upcoming campaign. They were interrupted by <persName ref="Mary Hamilton">Lady
+                    Hamilton</persName>, who brought urgent news from <persName ref="John Parker"
+                    >Governor Parker</persName>. </p>
+            <p> Back on the ship, <persName ref="Michael Collins">Sailing Master Collins</persName>
+                worked with <persName ref="Richard Brown">Boatswain Brown</persName> to prepare for
+                departure. The ship's cook, <persName ref="James White">White</persName>, argued
+                with <persName ref="Thomas Green">Purser Green</persName> about the state of
+                provisions. </p>
+            <p> In the evening, <persName ref="Elizabeth Morgan">Mrs. Morgan</persName>, the port
+                admiral's wife, hosted a dinner where <persName ref="Sarah Phillips">Miss
+                    Phillips</persName> was introduced to <persName ref="David Wilson">Captain
+                    Wilson</persName>. <persName ref="Margaret Foster">Lady Foster</persName>
+                watched the proceedings with great interest, while <persName ref="William Turner"
+                    >Mr. Turner</persName>, the merchant, discussed trade routes with <persName
+                    ref="Samuel Cooper">Mr. Cooper</persName>, the ship's agent. </p>
+            <p> The next morning, <persName ref="James Nelson">Captain Nelson</persName> met with
+                    <persName ref="Henry Russell">Lord Russell</persName> and <persName
+                    ref="George Thompson">Admiral Thompson</persName> to finalize their strategy.
+                    <persName ref="William Blake">Blake</persName> and <persName ref="Edward Davies"
+                    >Davies</persName> prepared the crew for departure, while <persName
+                    ref="Thomas Harris">Dr. Harris</persName> inspected the medical supplies with
+                help from <persName ref="Robert Smith">young Smith</persName>. </p>
+            <p> As they set sail, <persName ref="Elizabeth Morgan">Mrs. Morgan</persName> and
+                    <persName ref="Sarah Phillips">Miss Phillips</persName> waved goodbye from the
+                dock. <persName ref="Margaret Foster">Lady Foster</persName> commented to <persName
+                    ref="Mary Hamilton">Lady Hamilton</persName> about the fine sight of the ship
+                departing. </p>
+        </body>
+    </text>
+</TEI>
