@@ -31,6 +31,13 @@ def test_medium_window(cleaned_text, window_size):
     assert G.number_of_edges() == 0, "Graph should have no edges with medium window"
 
 
+def test_all_nodes_created(cleaned_text, window_size=10):
+    windows = get_text_windows(cleaned_text, window_size=window_size)
+    G = build_network_from_windows(windows, cleaned_text, window_size)
+
+    assert G.number_of_nodes() == 20, "Graph should have all 20 nodes with medium window"
+
+
 @pytest.mark.parametrize("window_size", range(1, 109))
 def test_monotonic_network_growth(cleaned_text, window_size):
     # Create graph with window_size
