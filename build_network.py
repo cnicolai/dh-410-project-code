@@ -134,18 +134,7 @@ def parse_args():
     return parser.parse_args()
 
 
-if __name__ == "__main__":
-    args = parse_args()
-
-    # Get the XML text
-    xml_text = get_corpus(args.path)
-
-    # Clean the text
-    cleaned_text = clean_text(xml_text, filter_stopwords=True)
-
-    # Get windows of text
-    windows = get_text_windows(cleaned_text, window_size=args.window_size)
-
+def build_network_from_windows(windows, cleaned_text, window_size):
     # Create an empty graph
     G = nx.Graph()
 
@@ -153,12 +142,20 @@ if __name__ == "__main__":
     for window in tqdm(
         windows,
         desc="Processing windows",
-        total=number_of_windows(cleaned_text, window_size=args.window_size),
+        total=number_of_windows(cleaned_text, window_size=window_size),
     ):
         persons_in_window = get_person_refs(window)
 
+        # create node for isolated persons if they don't exist yet
+        for person in persons_in_window:
+            if not G.has_node(person):
+                G.add_node(person)
+
         # Get all unique pairs of persons in the window
         for person1, person2 in it.combinations(persons_in_window, 2):
+            if not G.has_node(person2):
+                G.add_node(person2)
+
             if G.has_edge(person1, person2):
                 # Increment weight of existing edge
                 G[person1][person2]["weight"] += 1
@@ -172,8 +169,26 @@ if __name__ == "__main__":
     ):
         data["weight"] = log(1 + 0.5 * data["weight"])
 
+    return G
+
+
+if __name__ == "__main__":
+    args = parse_args()
+
+    # Get the XML text
+    xml_text = get_corpus(args.path)
+
+    # Clean the text
+    cleaned_text = clean_text(xml_text, filter_stopwords=True)
+
+    # Get windows of text
+    windows = get_text_windows(cleaned_text, window_size=args.window_size)
+
+    # Create network from windows
+    G = build_network_from_windows(windows, cleaned_text, args.window_size)
+
     # Export to Gephi
-    export_to_gephi(G)
+    # export_to_gephi(G)
 
     # Visualize the network
     # visualize_network(G)
