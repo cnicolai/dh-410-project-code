@@ -164,7 +164,7 @@ def build_network_from_windows(windows, cleaned_text, window_size):
                 G.add_edge(person1, person2, weight=1)
 
     # Dampen the weights
-    for node1, node2, data in tqdm(
+    for _, _, data in tqdm(
         G.edges(data=True), desc="Dampening weights", total=G.number_of_edges()
     ):
         data["weight"] = log(1 + 0.5 * data["weight"])
