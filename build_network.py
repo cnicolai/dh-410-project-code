@@ -129,7 +129,7 @@ def parse_args():
     parser.add_argument(
         "--window-size",
         type=int,
-        default=25,
+        default=20,
         help="Size of the sliding window for character co-occurrence",
     )
     return parser.parse_args()
