@@ -129,7 +129,7 @@ def parse_args():
     parser.add_argument(
         "--window-size",
         type=int,
-        default=20,
+        default=25,
         help="Size of the sliding window for character co-occurrence",
     )
     return parser.parse_args()
@@ -213,12 +213,19 @@ if __name__ == "__main__":
     xml_text = get_corpus(args.path)
 
     # Analyze different window sizes
-    results = analyze_window_sizes(xml_text, min_size=1, max_size=200)
+    # results = analyze_window_sizes(xml_text, min_size=1, max_size=200)
 
     # Convert results to pandas DataFrame and save to CSV
-    output_file = "window_size_analysis.csv"
-    df = pd.DataFrame(results)
-    df.to_csv(output_file, index=False)
+    # output_file = "window_size_analysis.csv"
+    # df = pd.DataFrame(results)
+    # df.to_csv(output_file, index=False)
 
-    # visualize_network(G)
-    # export_to_gephi(G)
+    cleaned_text = clean_text(xml_text, filter_stopwords=True)
+    G = build_network_from_windows(
+        get_text_windows(cleaned_text, window_size=args.window_size),
+        cleaned_text=cleaned_text,
+        window_size=args.window_size,
+    )
+
+    visualize_network(G)
+    export_to_gephi(G)
