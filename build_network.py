@@ -9,6 +9,7 @@ import re
 import networkx as nx
 import matplotlib.pyplot as plt
 from math import log
+import pandas as pd  # Add pandas import
 
 
 def get_corpus(path):
@@ -143,6 +144,7 @@ def build_network_from_windows(windows, cleaned_text, window_size):
         windows,
         desc="Processing windows",
         total=number_of_windows(cleaned_text, window_size=window_size),
+        leave=False,
     ):
         persons_in_window = get_person_refs(window)
 
@@ -165,11 +167,43 @@ def build_network_from_windows(windows, cleaned_text, window_size):
 
     # Dampen the weights
     for _, _, data in tqdm(
-        G.edges(data=True), desc="Dampening weights", total=G.number_of_edges()
+        G.edges(data=True),
+        desc="Dampening weights",
+        total=G.number_of_edges(),
+        leave=False,
     ):
         data["weight"] = log(1 + 0.5 * data["weight"])
 
     return G
+
+
+def analyze_window_sizes(xml_text, min_size, max_size):
+    # Clean the text once since it's the same for all window sizes
+    cleaned_text = clean_text(xml_text, filter_stopwords=True)
+
+    results = []
+
+    # Analyze each window size
+    for window_size in tqdm(range(min_size, max_size + 1), desc="Analyzing window sizes"):
+        windows = get_text_windows(cleaned_text, window_size=window_size)
+        G = build_network_from_windows(windows, cleaned_text, window_size)
+
+        results.append(
+            {
+                "window_size": window_size,
+                "num_edges": G.number_of_edges(),
+                "num_nodes": G.number_of_nodes(),
+            }
+        )
+
+        # if the graph is fully connected, stop
+        # n = G.number_of_nodes()
+        # TODO: the graph might be fully connected when n < n_max?
+        # if n > 0 and G.number_of_edges() == n * (n - 1) / 2:
+        #     print(f"Graph is fully connected at window size {window_size}")
+        #     break
+
+    return results
 
 
 if __name__ == "__main__":
@@ -178,17 +212,13 @@ if __name__ == "__main__":
     # Get the XML text
     xml_text = get_corpus(args.path)
 
-    # Clean the text
-    cleaned_text = clean_text(xml_text, filter_stopwords=True)
+    # Analyze different window sizes
+    results = analyze_window_sizes(xml_text, min_size=1, max_size=200)
 
-    # Get windows of text
-    windows = get_text_windows(cleaned_text, window_size=args.window_size)
+    # Convert results to pandas DataFrame and save to CSV
+    output_file = "window_size_analysis.csv"
+    df = pd.DataFrame(results)
+    df.to_csv(output_file, index=False)
 
-    # Create network from windows
-    G = build_network_from_windows(windows, cleaned_text, args.window_size)
-
-    # Export to Gephi
-    # export_to_gephi(G)
-
-    # Visualize the network
     # visualize_network(G)
+    # export_to_gephi(G)
