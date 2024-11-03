@@ -1,4 +1,4 @@
-# Character Network Analysis Project
+# Network Analysis of the Aubrey-Maturin Novels
 
 This project processes text files containing the Aubrey-Maturin novels to extract character relationships and create a network visualization.
 
